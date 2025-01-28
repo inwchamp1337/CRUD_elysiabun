@@ -114,7 +114,7 @@ You can find the full list of dependencies in the `package.json` file.
 ---
 
 ## 🛠️ **Scripts**
-- **`bun run dev`**: Start the development server with hot reload.
+- **`bun dev`**: Start the development server with hot reload.
 - **`bun test`**: Run tests (not implemented yet).
 
 --- 
